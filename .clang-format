@@ -18,7 +18,7 @@ AlwaysBreakBeforeMultilineStrings: 'true'
 BinPackArguments: 'false'
 BinPackParameters: 'false'
 BreakBeforeBinaryOperators: All
-BreakBeforeBraces: WebKit
+BreakBeforeBraces: Allman
 BreakConstructorInitializersBeforeComma: 'true'
 BreakStringLiterals: 'false'
 ColumnLimit: '80'
@@ -35,7 +35,7 @@ MaxEmptyLinesToKeep: '1'
 NamespaceIndentation: None
 PointerAlignment: Left
 ReflowComments: 'true'
-SortIncludes: 'true'
+SortIncludes: 'false'
 SpaceAfterCStyleCast: 'false'
 SpaceBeforeAssignmentOperators: 'true'
 SpaceBeforeParens: ControlStatements
